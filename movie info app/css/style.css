@@ -1,0 +1,16 @@
+#movies img, #movie img {
+  width: 100%;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+@media(min-width:960px) {
+  #movies .col-mt-3 .card-block {
+    height: 11590px;
+  }
+  #movies .col-mt-3 img {
+    height: 240px;
+  }
+}
